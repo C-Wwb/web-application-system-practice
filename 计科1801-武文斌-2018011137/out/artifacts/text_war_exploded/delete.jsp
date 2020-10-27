@@ -213,7 +213,7 @@
 <div id="box">
     <form name = "del" onsubmit="return check()" action="deleteData.jsp">
         <fieldset>
-            <legend>用户注册表</legend>
+            <legend>人员信息删除表</legend>
             <p>
                 <label>用户名：</label>
                 <label for="txtname"></label><input type="text" name = "userName" id="txtname" class="txt" onblur="Name()" onfocus="myFunction(this)"/>

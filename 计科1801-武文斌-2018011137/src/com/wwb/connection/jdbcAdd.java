@@ -11,22 +11,7 @@ public class jdbcAdd {
     String userBloodType;
     String userAddress;
     String userEmail;
-    /*public jdbcAdd(String userName, String userPassword, String year, String month, String day,
-                   String userBloodType, String userAddress, String userEmail)
-    {
-        this.userName = userName;
-        this.userPassword = userPassword;
-        this.year = year;
-        this.month = month;
-        this.day = day;
-        this.userBloodType = userBloodType;
-        this.userAddress = userAddress;
-        this.userEmail = userEmail;
-    }*/
-    public jdbcAdd()
-    {
-
-    }
+    public jdbcAdd() {}
 
     public String getUserName() {
         return userName;

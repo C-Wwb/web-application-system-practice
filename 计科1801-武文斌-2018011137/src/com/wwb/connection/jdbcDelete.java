@@ -26,6 +26,7 @@ public class jdbcDelete {
             DriverManager.registerDriver(driver);
             conn = DriverManager.getConnection(url, user, password);
             System.out.println(conn);
+            //connection.connect();
 
             String sql = "delete from information where userName = ?";
             PreparedStatement pstmt = conn.prepareStatement(sql);
@@ -72,3 +73,12 @@ mySql的驱动：com.mysql.jdbc.Driver
 5.打印出conn对象
 处理结果
  */
+/*String url = "jdbc:mysql://localhost:3306/stu?serverTimezone=Asia/Shanghai";
+            String user = "wwb";
+            String password = "123456";
+            String driverName = "com.mysql.jdbc.Driver";
+            Class clazz = Class.forName(driverName);
+            Driver driver = (Driver) clazz.newInstance();
+            DriverManager.registerDriver(driver);
+            conn = DriverManager.getConnection(url, user, password);
+            System.out.println(conn);*/

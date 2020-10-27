@@ -4,23 +4,7 @@ import java.sql.*;
 
 public class jdbcQuery {
     String userName;
-    /*public jdbcAdd(String userName, String userPassword, String year, String month, String day,
-                   String userBloodType, String userAddress, String userEmail)
-    {
-        this.userName = userName;
-        this.userPassword = userPassword;
-        this.year = year;
-        this.month = month;
-        this.day = day;
-        this.userBloodType = userBloodType;
-        this.userAddress = userAddress;
-        this.userEmail = userEmail;
-    }*/
-    public jdbcQuery()
-    {
-
-    }
-
+    public jdbcQuery() {}
     public String getUserName() {
         return userName;
     }
@@ -41,10 +25,11 @@ public class jdbcQuery {
             DriverManager.registerDriver(driver);
             conn = DriverManager.getConnection(url, user, password);
             System.out.println(conn);
+            //connection.connect();
 
-            String sql = "select from information where userName = ?";
+            String sql = "select from information";
             PreparedStatement pstmt = conn.prepareStatement(sql);
-            pstmt.setString(1,userName);
+
             int n = pstmt.executeUpdate();
             if (pstmt!=null)
             {

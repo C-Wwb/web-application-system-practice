@@ -34,10 +34,11 @@
         <tr><td>用户所在地：</td><td><%=area%></td></tr>
         <tr><td>邮箱：</td><td><%=email%></td></tr>
     </table>
+    <body  background="背景图片.jpg">
     <hr size="5px" align="center" color="red" width="100%"/>
     <input type="button" value="数据库查询" onclick='document.qd.submit()' />
     <input type="button" value="人员信息修改" onclick='window.open("update.jsp")' />
     <input type="button" value="人员信息删除" onclick='window.open("delete.jsp")' />
+    </body>
 </form>
-</body>
 </html>

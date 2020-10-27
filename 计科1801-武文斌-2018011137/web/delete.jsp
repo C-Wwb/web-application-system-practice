@@ -10,7 +10,7 @@
 <html>
 <head>
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-    <title>个人信息修改</title>
+    <title>人员信息删除</title>
 
     <style>
         body {

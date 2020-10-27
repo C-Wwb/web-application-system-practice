@@ -46,11 +46,23 @@
             //执行sql语句，并返回结果
 
             //处理结果
-            String sql = "select * from information userPassword = ? where userName = ?";
+            String sql = "select userPassword from information where userName = '"+name+"' ";
             PreparedStatement pstmt = conn.prepareStatement(sql);
             ResultSet rs=stmt.executeQuery(sql);
-            pstmt.setString(2, name);
-            if (pwd.equals(rs.getString("userPassword")))
+            //pstmt.setString(1, name);
+            /*if (pwd.equals("123456"))
+            {
+                response.sendRedirect("main.jsp");
+            }
+            else
+            {
+                response.sendRedirect("index.jsp");
+            }*/
+            String ps = null;
+            while(rs.next()){
+                ps = rs.getString("userPassword");
+            }
+            if (pwd.equals(ps))
             {
                 response.sendRedirect("main.jsp");
             }

@@ -7,16 +7,31 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="77cb8043-660e-43b9-8cd6-8ec6255d4afb" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/text_war_exploded/WEB-INF/classes/com/wwb/connection/jdbcAdd.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/text_war_exploded/WEB-INF/classes/com/wwb/connection/jdbcAdd.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/text_war_exploded/WEB-INF/classes/com/wwb/connection/jdbcDelete.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/text_war_exploded/WEB-INF/classes/com/wwb/connection/jdbcDelete.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/text_war_exploded/WEB-INF/classes/com/wwb/connection/jdbcQuery.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/text_war_exploded/WEB-INF/classes/com/wwb/connection/jdbcQuery.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/text_war_exploded/WEB-INF/classes/com/wwb/connection/jdbcUpdate.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/text_war_exploded/WEB-INF/classes/com/wwb/connection/jdbcUpdate.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/text_war_exploded/compare.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/text_war_exploded/compare.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/text_war_exploded/delete.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/text_war_exploded/delete.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/text_war_exploded/deleteData.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/text_war_exploded/deleteData.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/text_war_exploded/showDetails.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/text_war_exploded/showDetails.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/text_war_exploded/update.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/text_war_exploded/update.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/text_war_exploded/updateData.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/text_war_exploded/updateData.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/wwb/connection/jdbcAdd.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/wwb/connection/jdbcAdd.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/com/wwb/connection/jdbcDelete.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/wwb/connection/jdbcDelete.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/com/wwb/connection/jdbcQuery.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/wwb/connection/jdbcQuery.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/com/wwb/connection/jdbcUpdate.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/wwb/connection/jdbcUpdate.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/WEB-INF/classes/com/wwb/connection/jdbcAdd.class" beforeDir="false" afterPath="$PROJECT_DIR$/web/WEB-INF/classes/com/wwb/connection/jdbcAdd.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/web/WEB-INF/classes/com/wwb/connection/jdbcDelete.class" beforeDir="false" afterPath="$PROJECT_DIR$/web/WEB-INF/classes/com/wwb/connection/jdbcDelete.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/WEB-INF/classes/com/wwb/connection/jdbcQuery.class" beforeDir="false" afterPath="$PROJECT_DIR$/web/WEB-INF/classes/com/wwb/connection/jdbcQuery.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/WEB-INF/classes/com/wwb/connection/jdbcUpdate.class" beforeDir="false" afterPath="$PROJECT_DIR$/web/WEB-INF/classes/com/wwb/connection/jdbcUpdate.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/compare.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/web/compare.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/delete.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/web/delete.jsp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/web/deleteData.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/web/deleteData.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/modify.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/web/update.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/queryData.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/web/queryData.jsp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/web/showDetails.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/web/showDetails.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/update.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/web/update.jsp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/web/updateData.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/web/updateData.jsp" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -47,8 +62,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Jsp File" />
         <option value="Class" />
+        <option value="Jsp File" />
       </list>
     </option>
   </component>
@@ -293,6 +308,7 @@
       <workItem from="1603460298734" duration="596000" />
       <workItem from="1603681469109" duration="10799000" />
       <workItem from="1603780897425" duration="1819000" />
+      <workItem from="1603789588910" duration="10611000" />
     </task>
     <servers />
   </component>
@@ -304,10 +320,10 @@
       <screen x="0" y="0" width="1474" height="864" />
     </state>
     <state x="230" y="5" key="#Project_Structure/0.0.1474.864@0.0.1474.864" timestamp="1602419044464" />
-    <state x="230" y="5" key="#SQL_Dialects" timestamp="1603699245960">
+    <state x="230" y="5" key="#SQL_Dialects" timestamp="1603799944777">
       <screen x="0" y="0" width="1474" height="864" />
     </state>
-    <state x="230" y="5" key="#SQL_Dialects/0.0.1474.864@0.0.1474.864" timestamp="1603699245960" />
+    <state x="230" y="5" key="#SQL_Dialects/0.0.1474.864@0.0.1474.864" timestamp="1603799944777" />
     <state x="230" y="5" key="#Template_Data_Languages" timestamp="1601260149583">
       <screen x="0" y="0" width="1474" height="864" />
     </state>
@@ -320,10 +336,10 @@
       <screen x="0" y="0" width="1474" height="864" />
     </state>
     <state x="229" y="5" key="#Web_Browsers/0.0.1474.864@0.0.1474.864" timestamp="1600661371731" />
-    <state x="192" y="77" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1603684723951">
+    <state x="192" y="77" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1603799951199">
       <screen x="0" y="0" width="1474" height="864" />
     </state>
-    <state x="192" y="77" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1474.864@0.0.1474.864" timestamp="1603684723951" />
+    <state x="192" y="77" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1474.864@0.0.1474.864" timestamp="1603799951199" />
     <state x="379" y="209" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1603006211086">
       <screen x="0" y="0" width="1474" height="864" />
     </state>
@@ -352,54 +368,54 @@
       <screen x="0" y="0" width="1474" height="864" />
     </state>
     <state x="468" y="127" key="FileChooserDialogImpl/0.0.1474.864@0.0.1474.864" timestamp="1603008101114" />
-    <state width="961" height="137" key="GridCell.Tab.0.bottom" timestamp="1603782101246">
+    <state width="961" height="323" key="GridCell.Tab.0.bottom" timestamp="1603803076688">
       <screen x="0" y="0" width="1474" height="864" />
     </state>
-    <state width="961" height="137" key="GridCell.Tab.0.bottom/0.0.1474.864@0.0.1474.864" timestamp="1603782101246" />
-    <state width="961" height="137" key="GridCell.Tab.0.center" timestamp="1603782101246">
+    <state width="961" height="323" key="GridCell.Tab.0.bottom/0.0.1474.864@0.0.1474.864" timestamp="1603803076688" />
+    <state width="961" height="323" key="GridCell.Tab.0.center" timestamp="1603803076688">
       <screen x="0" y="0" width="1474" height="864" />
     </state>
-    <state width="961" height="137" key="GridCell.Tab.0.center/0.0.1474.864@0.0.1474.864" timestamp="1603782101246" />
-    <state width="961" height="137" key="GridCell.Tab.0.left" timestamp="1603782101246">
+    <state width="961" height="323" key="GridCell.Tab.0.center/0.0.1474.864@0.0.1474.864" timestamp="1603803076688" />
+    <state width="961" height="323" key="GridCell.Tab.0.left" timestamp="1603803076688">
       <screen x="0" y="0" width="1474" height="864" />
     </state>
-    <state width="961" height="137" key="GridCell.Tab.0.left/0.0.1474.864@0.0.1474.864" timestamp="1603782101246" />
-    <state width="961" height="137" key="GridCell.Tab.0.right" timestamp="1603782101246">
+    <state width="961" height="323" key="GridCell.Tab.0.left/0.0.1474.864@0.0.1474.864" timestamp="1603803076688" />
+    <state width="961" height="323" key="GridCell.Tab.0.right" timestamp="1603803076688">
       <screen x="0" y="0" width="1474" height="864" />
     </state>
-    <state width="961" height="137" key="GridCell.Tab.0.right/0.0.1474.864@0.0.1474.864" timestamp="1603782101246" />
-    <state width="961" height="137" key="GridCell.Tab.1.bottom" timestamp="1603782101247">
+    <state width="961" height="323" key="GridCell.Tab.0.right/0.0.1474.864@0.0.1474.864" timestamp="1603803076688" />
+    <state width="961" height="323" key="GridCell.Tab.1.bottom" timestamp="1603803076688">
       <screen x="0" y="0" width="1474" height="864" />
     </state>
-    <state width="961" height="137" key="GridCell.Tab.1.bottom/0.0.1474.864@0.0.1474.864" timestamp="1603782101247" />
-    <state width="961" height="137" key="GridCell.Tab.1.center" timestamp="1603782101246">
+    <state width="961" height="323" key="GridCell.Tab.1.bottom/0.0.1474.864@0.0.1474.864" timestamp="1603803076688" />
+    <state width="961" height="323" key="GridCell.Tab.1.center" timestamp="1603803076688">
       <screen x="0" y="0" width="1474" height="864" />
     </state>
-    <state width="961" height="137" key="GridCell.Tab.1.center/0.0.1474.864@0.0.1474.864" timestamp="1603782101246" />
-    <state width="961" height="137" key="GridCell.Tab.1.left" timestamp="1603782101246">
+    <state width="961" height="323" key="GridCell.Tab.1.center/0.0.1474.864@0.0.1474.864" timestamp="1603803076688" />
+    <state width="961" height="323" key="GridCell.Tab.1.left" timestamp="1603803076688">
       <screen x="0" y="0" width="1474" height="864" />
     </state>
-    <state width="961" height="137" key="GridCell.Tab.1.left/0.0.1474.864@0.0.1474.864" timestamp="1603782101246" />
-    <state width="961" height="137" key="GridCell.Tab.1.right" timestamp="1603782101246">
+    <state width="961" height="323" key="GridCell.Tab.1.left/0.0.1474.864@0.0.1474.864" timestamp="1603803076688" />
+    <state width="961" height="323" key="GridCell.Tab.1.right" timestamp="1603803076688">
       <screen x="0" y="0" width="1474" height="864" />
     </state>
-    <state width="961" height="137" key="GridCell.Tab.1.right/0.0.1474.864@0.0.1474.864" timestamp="1603782101246" />
-    <state width="961" height="137" key="GridCell.Tab.2.bottom" timestamp="1603782101247">
+    <state width="961" height="323" key="GridCell.Tab.1.right/0.0.1474.864@0.0.1474.864" timestamp="1603803076688" />
+    <state width="961" height="323" key="GridCell.Tab.2.bottom" timestamp="1603803076688">
       <screen x="0" y="0" width="1474" height="864" />
     </state>
-    <state width="961" height="137" key="GridCell.Tab.2.bottom/0.0.1474.864@0.0.1474.864" timestamp="1603782101247" />
-    <state width="961" height="137" key="GridCell.Tab.2.center" timestamp="1603782101247">
+    <state width="961" height="323" key="GridCell.Tab.2.bottom/0.0.1474.864@0.0.1474.864" timestamp="1603803076688" />
+    <state width="961" height="323" key="GridCell.Tab.2.center" timestamp="1603803076688">
       <screen x="0" y="0" width="1474" height="864" />
     </state>
-    <state width="961" height="137" key="GridCell.Tab.2.center/0.0.1474.864@0.0.1474.864" timestamp="1603782101247" />
-    <state width="961" height="137" key="GridCell.Tab.2.left" timestamp="1603782101247">
+    <state width="961" height="323" key="GridCell.Tab.2.center/0.0.1474.864@0.0.1474.864" timestamp="1603803076688" />
+    <state width="961" height="323" key="GridCell.Tab.2.left" timestamp="1603803076688">
       <screen x="0" y="0" width="1474" height="864" />
     </state>
-    <state width="961" height="137" key="GridCell.Tab.2.left/0.0.1474.864@0.0.1474.864" timestamp="1603782101247" />
-    <state width="961" height="137" key="GridCell.Tab.2.right" timestamp="1603782101247">
+    <state width="961" height="323" key="GridCell.Tab.2.left/0.0.1474.864@0.0.1474.864" timestamp="1603803076688" />
+    <state width="961" height="323" key="GridCell.Tab.2.right" timestamp="1603803076688">
       <screen x="0" y="0" width="1474" height="864" />
     </state>
-    <state width="961" height="137" key="GridCell.Tab.2.right/0.0.1474.864@0.0.1474.864" timestamp="1603782101247" />
+    <state width="961" height="323" key="GridCell.Tab.2.right/0.0.1474.864@0.0.1474.864" timestamp="1603803076688" />
     <state width="961" height="137" key="GridCell.Tab.3.bottom" timestamp="1603712906328">
       <screen x="0" y="0" width="1474" height="864" />
     </state>
@@ -420,10 +436,14 @@
       <screen x="0" y="0" width="1474" height="864" />
     </state>
     <state x="90" y="0" key="SettingsEditor/0.0.1474.864@0.0.1474.864" timestamp="1603683479843" />
-    <state x="341" y="211" key="com.intellij.ide.util.TipDialog" timestamp="1603681505440">
+    <state x="341" y="211" key="com.intellij.ide.util.TipDialog" timestamp="1603789714301">
       <screen x="0" y="0" width="1474" height="864" />
     </state>
-    <state x="341" y="211" key="com.intellij.ide.util.TipDialog/0.0.1474.864@0.0.1474.864" timestamp="1603681505440" />
+    <state x="341" y="211" key="com.intellij.ide.util.TipDialog/0.0.1474.864@0.0.1474.864" timestamp="1603789714301" />
+    <state x="405" y="131" key="extract.method.dialog" timestamp="1603799866189">
+      <screen x="0" y="0" width="1474" height="864" />
+    </state>
+    <state x="405" y="131" key="extract.method.dialog/0.0.1474.864@0.0.1474.864" timestamp="1603799866189" />
     <state x="0" y="0" key="new project wizard" timestamp="1603003348907">
       <screen x="0" y="0" width="1474" height="864" />
     </state>
